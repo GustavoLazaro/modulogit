@@ -1,0 +1,10 @@
+git init (inicializa o diretorio com git)
+git status (mostra o status daquela branch)
+git checkout -b <nome-da-branch> (cria branch nova)
+git branch (lista todas as branches) (editado)
+git clone (clona repositorio remoto para sua maquina)
+git add .  
+git commit -m 'sua mensagem aqui'
+git push 
+git diff <branch> (mostra as diferenćas entre branches)
+git log (mostra historico de commts
