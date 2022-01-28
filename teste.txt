@@ -2,3 +2,5 @@
 ok fazendo alteracoes e testando novos commits
 
 nesse caso vou incluir o terceiro commit na branch master
+
+adicionando mais texto e pra verificar o commit -am vs commit -m
